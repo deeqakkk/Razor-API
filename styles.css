@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Libre+Baskerville&display=swap');
+
+
+img{
+    height: 45rem;
+    width: 100%;
+}
+.container-fluid{
+    position:relative;
+}
+.container{
+    position: absolute;
+    bottom: 19rem;
+  width: 34rem;
+  right: 1rem;
+}
+.card-title{
+    font-family: 'Anton', sans-serif;
+    text-decoration: underline;
+    color:green;
+}
+h4{
+    font-family: 'Libre Baskerville', serif;
+}
